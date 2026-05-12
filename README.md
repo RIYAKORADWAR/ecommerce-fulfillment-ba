@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Order Fulfillment — Business Analysis Portfolio
+# 🛒 E-Commerce Order Fulfillment 
 
 > A complete, end-to-end Business Analysis project covering As-Is process documentation, gap analysis, To-Be process redesign, and executive presentation materials for a mid-sized Indian e-commerce company (Flipkart/Meesho model).
 
